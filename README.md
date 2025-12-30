@@ -46,4 +46,4 @@ Follow the interactive menu to search, play, get recommendations, and visualize.
 MIT
 
 ## Author
-[Your Name]
+Mehmet Emin Ateş
