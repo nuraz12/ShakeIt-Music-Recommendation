@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Data & logs
+listening_history.csv
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+*.cache
+
+# Misc
+*.bak
+*.swp
+*.swo
+
+# Test outputs
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Others
+*.tmp
+*.temp
